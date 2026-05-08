@@ -2,6 +2,7 @@
 Predictive Regime Integrated State Momentum
 
 Abstract
+
 We present PRISM (Predictive Regime-Integrated State Momentum), a quantitative equity strategy that conditions a stacked machine learning forecast on macroeconomic regime and stock cluster identity, then translates the forecast into positions
 through a four-step bounded portfolio constructor and a three-layer risk overlay. The
 alpha pipeline combines eight cross-sectional factors with a Gaussian Hidden Markov
